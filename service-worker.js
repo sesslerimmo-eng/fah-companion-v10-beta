@@ -1,4 +1,4 @@
-const CACHE_NAME = "fah-v10-beta-cache-v3";
+const CACHE_NAME = "fah-v10-beta-cache-v4";
 
 const APP_SHELL = [
   "./",
