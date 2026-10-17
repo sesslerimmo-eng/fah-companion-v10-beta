@@ -1,4 +1,4 @@
-const CACHE_NAME = "fah-v10-beta-cache-v2";
+const CACHE_NAME = "fah-v10-beta-cache-v3";
 
 const APP_SHELL = [
   "./",
@@ -7,6 +7,7 @@ const APP_SHELL = [
   "./styles.css",
   "./v10-theme.css",
   "./manifest.json",
+  "./icons/fouck_team_logo.png",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
   "./icons/maskable-512.png",
