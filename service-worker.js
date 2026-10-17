@@ -1,10 +1,11 @@
-const CACHE_NAME = "fah-v10-beta-cache-v1";
+const CACHE_NAME = "fah-v10-beta-cache-v2";
 
 const APP_SHELL = [
   "./",
   "./index.html",
   "./app.js",
   "./styles.css",
+  "./v10-theme.css",
   "./manifest.json",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
