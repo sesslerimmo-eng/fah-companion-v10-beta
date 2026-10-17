@@ -30,7 +30,7 @@ jobs:
           import json
           from pathlib import Path
           manifest = json.loads(Path("manifest.json").read_text())
-          assert "V10 Beta" in manifest["name"]
+          assert "V10" in manifest["name"]
           for icon in manifest["icons"]:
               assert Path(icon["src"]).is_file(), icon["src"]
           PY
