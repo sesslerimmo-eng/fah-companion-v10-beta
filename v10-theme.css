@@ -47,3 +47,6 @@ dialog#detail-dialog {border:1px solid #31506b}
 @media(min-width:900px){#tab-live>.card:first-child{max-width:none}.v10-protein{right:12%;opacity:.7}}
 @media(max-width:600px){header{padding:20px 16px 16px}.v10-mark{flex-basis:44px;height:44px;font-size:28px}.v10-brand{gap:10px}.v10-protein{right:-90px;top:-25px;opacity:.25}.tabs{margin-top:18px}.tab-btn{padding:11px 7px;font-size:.8rem}.stats-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(prefers-reduced-motion:reduce){.v10-orbit{animation:none}}
+
+.v10-mark{overflow:hidden;padding:3px;background:#0d2135}
+.v10-team-logo{width:100%;height:100%;object-fit:contain;display:block}
